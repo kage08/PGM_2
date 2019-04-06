@@ -14,4 +14,6 @@ Just run `run.sh`
 
 ## Seeing summary results
 
-After running `run.sh` you can view results can be viewed in [plots](https://github.com/Harsha061/PGM_2/tree/master/plots) folder for [MH Algorithm](plots/MH_Summary.html), [Hardcore model](plots/Hardcore_Summary.html) and [Block vs Plain Gibbs Sampling](plots/Q3_Summary.html).
+After running `run.sh` you can view results can be viewed in [plots](https://github.com/Harsha061/PGM_2/tree/master/plots) folder for [MH Algorithm](https://harsha061.github.io/PGM_2/plots/MH_Summary.html), [Hardcore model](https://harsha061.github.io/PGM_2/plots/Hardcore_Summary.html) and [Block vs Plain Gibbs Sampling](https://harsha061.github.io/PGM_2/plots/Q3_Summary.html).
+
+A detailed report is [here](https://github.com/Harsha061/PGM_2/tree/master/Report.pdf)
