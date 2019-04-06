@@ -1,3 +1,4 @@
 *.txt
 *.tab
 *_sample
+.vscode/*
